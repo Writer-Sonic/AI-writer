@@ -1,4 +1,4 @@
-# Story Generator: Ai Writer Privacy Policy
+# ChatGPT: Ai Writer Privacy Policy
 Privacy Policy
 
 This app is as a Free app. This SERVICE is provided  at no cost and is intended for use as is. However User can upgrade for more monthly credit.
