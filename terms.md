@@ -1,4 +1,4 @@
-# Chat Guru (Chat G) Terms
+# BrutusAI Chat Terms
 Terms
 
 This app is as a Free app. This SERVICE is provided  at no cost and is intended for use as is. However User can upgrade for more monthly credit.
